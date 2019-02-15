@@ -2,6 +2,7 @@ package Lab
 
 class Kek {
   def main(args: Array[String]): Unit = {
-   println("Goodbye World!")
+    var output: String = "Goodbye World!"
+    print(output)
   }
 }
